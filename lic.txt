@@ -1,4 +1,1 @@
-Unhandled exception. System.ComponentModel.Win32Exception (0x80004005): Playwright engine bootstrap failed: Unable to launch node.exe (error: 2147942405).  
-   at VintedDonbass.Emulation.NativePlaywrightBootstrapper.EnsureInitialized() in VintedDonbass\Emulation\NativePlaywrightBootstrapper.cs:line 47  
-   at VintedDonbass.DataDome.CamoufoxProxyController..ctor(SocketsHttpHandler handler, String proxy) in VintedDonbass\CutsomDatadomeSolution\CamoufoxMultiThread.cs:line 58  
-   at VintedDonbass.DataDome.DataDomeBrowserOptimised..ctor(SocketsHttpHandler handler, String proxy, ValueTuple`2 spoof, String title, Boolean enable_ext) in VintedDonbass\DataDome\DataDomeBrowserOptimised.cs:line 114  
+true
