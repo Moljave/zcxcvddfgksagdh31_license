@@ -1,1 +1,2 @@
-true
+Unhandled exception. System.Exception: Camoufox update required
+   at VintedDonbass.DataDome.DataDomeBrowserOptimised..ctor(SocketsHttpHandler handler, String proxy, ValueTuple`2 spoof, String title, Boolean enable_ext) in VintedDonbass\DataDome\DataDomeBrowserOptimised.cs:line 114
